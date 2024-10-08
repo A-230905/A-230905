@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @A-230905
-- 👀 I’m interested in ...
-🌱 I’m currently learning Nodejs,Express,Reactjs.
-- 💞️ I’m looking to collaborate on ...
+- 👨‍💻 All of my projects are available at
+- 🌱 I’m currently learning Nodejs,Express,Reactjs.
+- 💬 Ask me about reactjs,Nodejs
 - 📫 How to reach me ...kakarlaabhinavsai@gmail.com
 
 
